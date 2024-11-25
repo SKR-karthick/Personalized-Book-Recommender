@@ -6,7 +6,7 @@ import pandas as pd
 
 st.set_page_config(layout="wide")
 
-st.header("Book Recommender System")
+st.header("Book Recommender System 𝓟𝓸𝔀𝓮𝓻𝓮𝓭 𝓫𝔂 𝓢𝓚𝓡")
 
 st.markdown('''
             ##### The site usinging colaborative filtering suggests books from our catalog. 
